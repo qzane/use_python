@@ -33,9 +33,9 @@ PS: 强烈不建议使用pip直接安装numpy等库，建议从上面提到的�
 >>>python setup.py
 ```
 
+[Pyserial]: https://github.com/pyserial/pyserial
 ## Linux
 使用Linux的人应该不需要我比比了.
 
 
 
-[Pyserial]: https://github.com/pyserial/pyserial
