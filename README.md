@@ -11,7 +11,7 @@
 [Python]: https://www.python.org/
 
 ### 安装第三方库
-* 推荐到[这个第三方网站][www.lfd.uci.edu]下载预编译好的包(注意Python版本，以及numpy建议用mkl版本)
+* 推荐到[这个第三方网站][www.lfd.uci.edu]下载预编译好的包(注意Python版本，以及numpy建议用mkl版本)(这个网站可以在bing或者google上搜索关键词`python windows library`找到//某度呵呵不解释)
 * 如果上面这个网站搜不到，可以去[github]试试，见安装方法3.
 
 
